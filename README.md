@@ -1,6 +1,6 @@
 # git-101
-Isimim Hamidullah<br>
-soyisim Nazari tum sosyal medya hesaplarimda Turkmen olarak kullaniyorum<br>
-Sakarya universitesi Bilgisayar Muhendisliginde Yuksek lisans tez asamasindayim<br>
+<b>Hamidullah Türkmen</b><br>
+Sakarya Üniversitesi Bilgisayar Mühendisliginde Yüksek lisans Tez aşamasındayımm<br>
 Afganistanliyim Istanbulda ikamet etmekteyim<br>
-yapay zeka (Derin Ogrenem - DeepLearning) ile ugrasuyorum.
+yapay zeka (Derin Ogrenem - DeepLearning) ile ugrasuyorum.<br>
+<b>Hobilerim</b> Kitap Okumak, voleybol oynamak, Tarihi şehirleri gezmek
